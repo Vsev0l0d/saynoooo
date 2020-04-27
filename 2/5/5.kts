@@ -1,0 +1,1 @@
+fun getLength(str: String?):Int = str!!.length

@@ -1,0 +1,1 @@
+class SphinxesException():Exception()

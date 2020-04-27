@@ -1,0 +1,5 @@
+1 - jkfhwk
+2 - D/CHECKER: com.example.company.myapplication.MainActivity@ce8c82e
+3 - 159j0kjhk
+4 - Created-By: Android Gradle 3.0.1
+5 - SHA-256-Digest: 5tOoOlQAhWeZ6llJZOtG9ZnIknufHaFElgFk1lP8WD8=
